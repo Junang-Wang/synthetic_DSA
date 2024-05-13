@@ -1,0 +1,9 @@
+###### Requirements to run the code##########
+torch >= 2.0
+numpy
+pandas
+matplotlib
+json5
+vedo
+scikit-image
+gvxr
